@@ -1,0 +1,14 @@
+.p1{
+    background-color: black;
+    animation:a1 1s infinite;
+}
+@keyframes a1 {
+    0%{background-color:black;}
+    10%{background-color: rgb(227, 129, 37);}
+    10%{background-color: yellow;}
+    10%{background-color: rgb(44, 246, 44);}
+    10%{background-color: rgb(113, 182, 214);}
+    20%{background-color: rgb(87, 43, 220);}
+    
+
+}
